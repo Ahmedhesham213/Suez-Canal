@@ -24,6 +24,6 @@ Suez Canal is an educational and informational website dedicated to providing in
 
 - JavaScript (optional for interactivity)
 
-## Demo
+## 🚀 Live Demo
 
-[View](https://suez-canal.netlify.app/)
+🔗 [View Website](https://suez-canal.netlify.app/)
