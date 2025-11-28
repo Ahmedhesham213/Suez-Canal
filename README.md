@@ -68,6 +68,5 @@ Alhamdulillah for the learning, effort, and success 🙏
 ### 📬 Contact
 
 📧 **Email:** [ahmed.hesham.a.ibrahim@gmail.com](mailto:ahmed.hesham.a.ibrahim@gmail.com)
+--
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ahmedhesham213/](https://www.linkedin.com/in/ahmedhesham213/)
-
-هل تحب أعملها؟
