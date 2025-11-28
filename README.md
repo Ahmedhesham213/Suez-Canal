@@ -49,6 +49,15 @@ Check out the live version of the project here 👇
 
 ---
 
+
+## 🙌 Credits
+
+- **Design:** [LaslesVPN Figma Community File](https://www.figma.com/file/y4g7B9BSJsuPkI101iyF5E/FREEBIES-Landingpage-LaslesVPN-Community)
+- **Icons:** [Font Awesome](https://fontawesome.com/) (if used)
+- **Fonts:** [Google Fonts](https://fonts.google.com/)
+
+---
+
 ## 📸 Preview
 ---
 View the source code on GitHub 👇
