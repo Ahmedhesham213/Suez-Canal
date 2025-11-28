@@ -25,13 +25,13 @@ Check out the live version of the project here 👇
 
 ## 🧠 What I Learned
 
-🔹 Structuring web pages with **HTML5 semantic tags**
-🔹 Designing layouts using **Flexbox & CSS Grid**
-🔹 Implementing **responsive design** for multiple screen sizes**
-🔹 Adding **animations and transitions** for better interactivity**
-🔹 Integrating **APIs** to fetch real-time data**
-🔹 Improving **UI/UX** for clear and intuitive navigation**
-🔹 Organizing assets like **images, CSS, and JS files** for maintainability**
+- Structuring web pages with **HTML5 semantic tags**
+- Designing layouts using **Flexbox & CSS Grid**
+- Implementing **responsive design** for multiple screen sizes**
+- Adding **animations and transitions** for better interactivity**
+- Integrating **APIs** to fetch real-time data**
+- Improving **UI/UX** for clear and intuitive navigation**
+- Organizing assets like **images, CSS, and JS files** for maintainability**
 
 ---
 
