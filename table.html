@@ -1,48 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicon -->
+    <link rel="icon" href="images/logo.png" type="image/png">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/table.css">
     <link href='css/boxicons/css/boxicons.min.css' rel='stylesheet'>
     <title>Today's Booking</title>
 </head>
+
 <body>
 
     <!--                           header                           -->
-        <header class="header">
+    <header class="header">
         <a href="index.html" class="logo">
-            <img src="images/keep it2.png"  alt="logo" width="150"  class="logo-image"> 
+            <img src="images/keep it2.png" alt="logo" width="150" class="logo-image">
         </a>
-                
+
         <nav class="navbar">
             <a href="index.html" style="--i:1;">Home</a>
             <a href="about.html" style="--i:2;">About</a>
             <a href="table.html" style="--i:3;" class="active">Today Travels</a>
             <a href="weather.html" style="--i:4; ">Weather</a>
             <a href="login.html">
-        <button class="singn_in_btn">sign in</button>
-        </a>
-                
-                
+                <button class="singn_in_btn">sign in</button>
+            </a>
+
+
         </nav>
-                
+
         <div class="soial-media">
-            <a href="https://twitter.com/SuezAuthorityEG?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="--i:1;"><i class='bx bxl-twitter'></i></a>
-            <a href="https://www.facebook.com/SuezCanalAuthorityEG/" style="--i:2;"><i class='bx bxl-facebook-circle' ></i></a>
-            <a href="https://www.instagram.com/suezcanalauthority/" style="--i:3;"><i class='bx bxl-instagram-alt' ></i></a>
+            <a href="https://twitter.com/SuezAuthorityEG?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                style="--i:1;"><i class='bx bxl-twitter'></i></a>
+            <a href="https://www.facebook.com/SuezCanalAuthorityEG/" style="--i:2;"><i
+                    class='bx bxl-facebook-circle'></i></a>
+            <a href="https://www.instagram.com/suezcanalauthority/" style="--i:3;"><i
+                    class='bx bxl-instagram-alt'></i></a>
         </div>
-                    
-        </header>
+
+    </header>
     <!--                           header                           -->
-                   
+
     <div class="container">
         <h1>Today's Booking</h1>
 
         <!-- Form for Adding/Editing Data -->
         <form id="crudForm" enctype="multipart/form-data">
-            <input type="text" id="name"  name="name" placeholder="Enter Name" required>
+            <input type="text" id="name" name="name" placeholder="Enter Name" required>
             <input type="email" id="email" name="email" placeholder="Enter Email" required>
             <input type="file" id="image" name="image" accept="image/*" required>
             <input type="datetime-local" id="time" name="booking_time" required>
@@ -159,4 +166,5 @@
         };
     </script>
 </body>
+
 </html>
