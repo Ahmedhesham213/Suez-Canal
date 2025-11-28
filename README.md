@@ -1,5 +1,4 @@
 # 🌊 Suez Canal Website
---
 ## 🧭 About the Project
 
 This is an informational and educational website about the **Suez Canal**, built using **HTML5, CSS3, JavaScript, and APIs**.
@@ -8,28 +7,31 @@ It features a **clean, modern, responsive design** with **animations** to enhanc
 Throughout this project, I focused on creating **dynamic, interactive sections** and integrating external data via APIs for real-time information.
 
 ---
+Check out the live version of the project here 👇
+ ## 🚀 Live Demo
+🔗 [View Website](https://suez-canal.netlify.app/)
+---
 
 ## 🚀 Features
-
-✅ - Clean and modern UI design
-✅ - Fully responsive (desktop, tablet, and mobile optimized)
-✅ - Smooth animations and hover effects
-✅ - Real-time data integration using **APIs**
-✅ - Organized layout using **Flexbox** and **CSS Grid**
-✅ - Easy navigation with sidebar and header menus
-✅ - Informational sections like **About, Mission, Services, Why Us, and Contact**
+✅ Clean and modern UI design
+✅ Fully responsive (desktop, tablet, and mobile optimized)
+✅ Smooth animations and hover effects
+✅ Real-time data integration using **APIs**
+✅ Organized layout using **Flexbox** and **CSS Grid**
+✅ Easy navigation with sidebar and header menus
+✅ Informational sections like **About, Mission, Services, Why Us, and Contact**
 
 ---
 
 ## 🧠 What I Learned
 
-🔹- Structuring web pages with **HTML5 semantic tags**
-🔹- Designing layouts using **Flexbox & CSS Grid**
-🔹- Implementing **responsive design** for multiple screen sizes
-🔹- Adding **animations and transitions** for better interactivity
-🔹- Integrating **APIs** to fetch real-time data
-🔹- Improving **UI/UX** for clear and intuitive navigation
-🔹- Organizing assets like **images, CSS, and JS files** for maintainability
+🔹 Structuring web pages with **HTML5 semantic tags**
+🔹 Designing layouts using **Flexbox & CSS Grid**
+🔹 Implementing **responsive design** for multiple screen sizes**
+🔹 Adding **animations and transitions** for better interactivity**
+🔹 Integrating **APIs** to fetch real-time data**
+🔹 Improving **UI/UX** for clear and intuitive navigation**
+🔹 Organizing assets like **images, CSS, and JS files** for maintainability**
 
 ---
 
@@ -48,12 +50,6 @@ Throughout this project, I focused on creating **dynamic, interactive sections**
 ---
 
 ## 📸 Preview
-
-Check out the live version of the project here 👇
-
- ## 🚀 Live Demo
-🔗 [View Website](https://suez-canal.netlify.app/)
-
 ---
 View the source code on GitHub 👇
 
