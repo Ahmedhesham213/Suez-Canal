@@ -26,4 +26,4 @@ Suez Canal is an educational and informational website dedicated to providing in
 
 ## Demo
 
-(https://suez-canal.netlify.app/)
+[View](https://suez-canal.netlify.app/)
