@@ -12,14 +12,14 @@ Check out the live version of the project here 👇
 🔗 [View Website](https://suez-canal.netlify.app/)
 ---
 
-## 🚀 Features
-✅ Clean and modern UI design
-✅ Fully responsive (desktop, tablet, and mobile optimized)
-✅ Smooth animations and hover effects
-✅ Real-time data integration using **APIs**
-✅ Organized layout using **Flexbox** and **CSS Grid**
-✅ Easy navigation with sidebar and header menus
-✅ Informational sections like **About, Mission, Services, Why Us, and Contact**
+## ✨ Features
+- Clean and modern UI design
+- Fully responsive (desktop, tablet, and mobile optimized)
+- Smooth animations and hover effects
+- Real-time data integration using **APIs**
+- Organized layout using **Flexbox** and **CSS Grid**
+- Easy navigation with sidebar and header menus
+- Informational sections like **About, Mission, Services, Why Us, and Contact**
 
 ---
 
@@ -37,15 +37,15 @@ Check out the live version of the project here 👇
 
 ## 🛠️ Technologies & Skills Used
 
-🔹- **HTML5**
-🔹- **CSS3**
-🔹- **JavaScript**
-🔹- **Responsive Design**
-🔹- **Animations & Hover Effects**
-🔹- **API Integration**
-🔹- **Boxicons & Ionicons** for icons
-🔹- **Visual Studio Code**
-🔹- **Git & GitHub**
+ - **HTML5**
+ - **CSS3**
+ - **JavaScript**
+ - **Responsive Design**
+ - **Animations & Hover Effects**
+ - **API Integration**
+ - **Boxicons & Ionicons** for icons
+ - **Visual Studio Code**
+ - **Git & GitHub**
 
 ---
 
